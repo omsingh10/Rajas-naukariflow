@@ -233,6 +233,30 @@ Custom color scheme with primary orange and secondary green themes, configured f
 - CSS purging for production builds
 - Image optimization ready
 
+## 🚀 Deployment
+
+### **Live Demo**
+- **GitHub Repository**: https://github.com/omsingh10/Rajas-naukariflow
+- **Live Application**: Deploy to Vercel in 2 minutes!
+
+### **Quick Deploy to Vercel**
+1. Visit [vercel.com](https://vercel.com)
+2. Import GitHub repository: `omsingh10/Rajas-naukariflow`
+3. Click "Deploy" - Vercel auto-configures everything!
+4. Your app will be live at: `https://rajas-naukariflow.vercel.app`
+
+### **Production Build**
+```bash
+npm run build  # Creates optimized dist/ folder
+npm run preview  # Preview production build locally
+```
+
+### **Build Stats**
+- **Bundle Size**: 290KB JavaScript (82KB gzipped)
+- **CSS Size**: 28KB (5KB gzipped)
+- **Build Time**: ~4 seconds
+- **Performance**: Optimized for fast loading
+
 ## 🤝 Contributing
 
 1. Fork the repository
@@ -248,9 +272,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📞 Support
 
 For support and queries, please contact:
-- **Project Lead**: [Your Name]
-- **Email**: [Your Email]
-- **Documentation**: [Project Wiki/Docs URL]
+- **GitHub**: [@omsingh10](https://github.com/omsingh10)
+- **Repository**: [Rajas-naukariflow](https://github.com/omsingh10/Rajas-naukariflow)
+- **Issues**: Use GitHub Issues for bug reports and feature requests
 
 ---
 
